@@ -15,7 +15,7 @@
 
 2.Окно авторизированых пользоватлей:
 
-   ![]()
+   ![](https://github.com/Durax66/ItogOOP-Tusk5---/blob/master/screenshots/screen%202.png)
 ## Установка
 
 1. Клонируйте репозиторий:
