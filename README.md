@@ -11,7 +11,7 @@
 
 1. Окно входа:
    
-   ![]()
+   ![](https://github.com/Durax66/ItogOOP-Tusk5---/blob/master/screenshots/screen%201.png)
 
 2.Окно авторизированых пользоватлей:
 
